@@ -1,0 +1,21 @@
+baseURL = ""
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'LoveIt-master'
+
+
+
+
+
+
+[[menu.main]]
+    name = "Life"
+    url = "/Life/"
+    weight = 1
+
+[[menu.main]]
+    name = "Overthinking"
+    url = "/Overthinking/"
+    weight = 4
+
+   
