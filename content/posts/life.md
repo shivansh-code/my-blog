@@ -5,7 +5,7 @@ url: "life"
 summary: life
 
 ---
-  .
+  pol
   nj
   Hi, my first blog
 Knowing that Mrs. Mallard was afflicted with a heart trouble, great care was taken to break to her as gently as possible the news of her husband's death.
