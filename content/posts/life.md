@@ -5,6 +5,6 @@ url: "life"
 summary: life
 
 ---
-  
+  &#8203;
   
   if life is a journey, then death is the destination so i guess you better enjoy the journey 
