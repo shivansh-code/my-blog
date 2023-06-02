@@ -9,7 +9,7 @@ theme = 'LoveIt-master'
 
 
 [[menu.main]]
-    name = "."
+    name = "Life"
     url = "/Life/"
     weight = 1
 

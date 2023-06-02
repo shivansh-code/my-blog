@@ -1,5 +1,5 @@
  ---
-title: "love"
+title: "life"
 layout: "life"
 url: "life"
 summary: life
