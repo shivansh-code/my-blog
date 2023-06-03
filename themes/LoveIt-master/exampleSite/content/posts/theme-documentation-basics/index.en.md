@@ -248,7 +248,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Posts"
-    url = "/posts/"
+    url = "//"
     # title will be shown when you hover on this menu link
     title = ""
   [[menu.main]]
@@ -257,7 +257,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     pre = ""
     post = ""
     name = "Tags"
-    url = "/tags/"
+    url = "//"
     title = ""
   [[menu.main]]
     weight = 3
@@ -265,7 +265,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     pre = ""
     post = ""
     name = "Categories"
-    url = "/categories/"
+    url = "//"
     title = ""
 
 [params]
