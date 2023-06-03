@@ -980,7 +980,7 @@ defaultContentLanguage = "zh-cn"
       pre = ""
       post = ""
       name = "Posts"
-      url = "/posts/"
+      url = "//"
       title = ""
     [[languages.en.menu.main]]
       weight = 2
@@ -1011,7 +1011,7 @@ defaultContentLanguage = "zh-cn"
       pre = ""
       post = ""
       name = "文章"
-      url = "/posts/"
+      url = "//"
       title = ""
     [[languages.zh-cn.menu.main]]
       weight = 2
@@ -1041,7 +1041,7 @@ defaultContentLanguage = "zh-cn"
       pre = ""
       post = ""
       name = "Postes"
-      url = "/posts/"
+      url = "//"
       title = ""
     [[languages.fr.menu.main]]
       weight = 2
