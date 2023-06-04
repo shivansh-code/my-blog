@@ -3,7 +3,7 @@ title: "life"
 layout: "life"
 url: "life"
 summary: life
-publishDate: 2023-05-27T10:30:00Z
+publishDate: 27-05-2023T10:30:00Z
 
 
 ---
