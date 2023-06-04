@@ -12,7 +12,8 @@ summary: life
 
   &#8203;
 
-**2. Lonely and Alone -**'
+**2. Lonely or Alone -**
   &#8203;
+  I've been alone a lot but never really lonely and didnt understand the difference between them untill recently. 
 
 
