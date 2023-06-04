@@ -1,8 +1,8 @@
  ---
-title: "overthinking"
+title: "sobre ella"
 layout: "overthinking"
 url: "overthinking"
-summary: overthinking
+summary: sobre ella
 
 ---
   &#8203;
