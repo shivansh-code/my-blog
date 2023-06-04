@@ -18,4 +18,9 @@ theme = 'LoveIt-master'
     url = "/Overthinking/"
     weight = 2
 
+[[menu.main]]
+    name = "love"
+    url = "/love/"
+    weight = 3    
+
    
