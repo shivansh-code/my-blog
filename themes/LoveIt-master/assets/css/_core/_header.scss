@@ -235,8 +235,9 @@ header {
       }
 
       .menu-toggle {
-        line-height: 8rem;
+        line-height: 4rem;
         cursor: pointer;
+        padding-right: 2px;
         @include transition(width 0.3s ease);
 
         span {
