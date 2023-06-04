@@ -12,7 +12,7 @@ summary: life
 
   &#8203;
 
-  **2. Lonely and Alone -**'
+**2. Lonely and Alone -**'
   &#8203;
-  
+
 
