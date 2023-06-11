@@ -16,16 +16,21 @@ theme = 'LoveIt-master'
 [[menu.main]]
     name = "."
     url = "/Overthinking/"
-    weight = 7
+    weight = 9
 
 [[menu.main]]
     name = "love"
     url = "/love/"
-    weight = 5
+    weight = 7
 
 [[menu.main]]
     name = "About me"
     url = "/author/"
     weight = 1      
+   
+[[menu.main]]
+    name = "Quotes"
+    url = "/quotes/"
+    weight = 5  
 
    
