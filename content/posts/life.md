@@ -16,6 +16,6 @@ publishDate: 2023-05-27T10:30:00Z
 
 **2. Lonely or Alone -**
   &#8203;
-  I've been alone a lot but never really lonely and didnt understand the difference between them untill recently. 
+  There comes a point in many if not everybody's life when they understandant the differnce between being lonely and bein fucking alone.
 
 
