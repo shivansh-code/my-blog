@@ -24,7 +24,7 @@ theme = 'LoveIt-master'
     weight = 7
 
 [[menu.main]]
-    name = "About me"
+    name = "About"
     url = "/author/"
     weight = 1      
    
