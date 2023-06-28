@@ -1,8 +1,8 @@
  ---
-title: "stupid"
+title: "."
 layout: "overthinking"
 url: "overthinking"
-summary: sobre ella
+summary: .
 
 ---
   &#8203;
