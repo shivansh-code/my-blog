@@ -19,3 +19,8 @@ publishDate: 2023-05-27T10:30:00Z
   There comes a point in many if not everybody's life when they understandant the differnce between being lonely and bein fucking alone.
 
 
+**3. Success Failiure Life -**
+ One thing i got to know later than i would have liked in life was there are definitly things we have to do in life u much rather wouldn't, like it's said u don't choose what u wanna do but u choose which problems u wanna face, similarly u would choose which things u dont wanna do less than other.
+
+
+
